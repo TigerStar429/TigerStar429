@@ -1,13 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Welcome to my github!</h1>
 <h3 align="center">I'm a passionate Full Stack Developer.</h3>
-## :man-raising-hand: About Me
-<!-- - :telescope: I’m currently working on *Covid-19 Tracker* -->
-:seedling: I’m currently learning *Data Structures and Algorithms.*
-:dancers: I’m looking to collaborate on *OpenSource Projects*
-<!-- - :male-technologist: All of my projects are available at *My Portfolio* -->
-:mailbox: How to reach me *kumarchandandbg1@gmail.com*
-:zap: Fun fact *I play games and go to the GYM very often.*
 ## :rocket: Languages and Tools:
 <p align="left">
     <!-- <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
